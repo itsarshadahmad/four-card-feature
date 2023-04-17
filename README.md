@@ -22,12 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot (25)](https://user-images.githubusercontent.com/54478287/232458620-5119794d-048c-4ec0-89ba-b8713f6aef48.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/54478287/232458633-82e2c2b7-38db-4696-bfc3-1f79fd18c793.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-F5PMH3uKOk)
+-   Live Site URL: [Link](https://itsarshadahmad.github.io/four-card-feature/)
 
 ## My process
 
